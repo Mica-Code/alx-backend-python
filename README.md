@@ -1,2 +1,2 @@
 # alx-backend-python
-Coding in python by Anitha
+Coding in python by Ikechukwu
